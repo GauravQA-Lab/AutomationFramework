@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="105581" started-at="2023-08-13T16:55:17 IST" finished-at="2023-08-13T16:57:03 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="105581" started-at="2023-08-13T16:55:17 IST" finished-at="2023-08-13T16:57:03 IST">
+      <class name="com.test.testcase.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.testcase.LoginTest@27a5f880]" name="setup" is-config="true" duration-ms="11476" started-at="2023-08-13T16:55:17 IST" finished-at="2023-08-13T16:55:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC_001_verifyLoginFunctionalitywithDifferentUsers()[pri:1, instance:com.test.testcase.LoginTest@27a5f880]" name="TC_001_verifyLoginFunctionalitywithDifferentUsers" duration-ms="7077" started-at="2023-08-13T16:55:29 IST" description="Verify Login functionality with valid username and password" finished-at="2023-08-13T16:55:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001_verifyLoginFunctionalitywithDifferentUsers -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.test.testcase.LoginTest@27a5f880]" name="teardown" is-config="true" duration-ms="912" started-at="2023-08-13T16:55:36 IST" finished-at="2023-08-13T16:55:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.testcase.LoginTest@27a5f880]" name="setup" is-config="true" duration-ms="5549" started-at="2023-08-13T16:55:37 IST" finished-at="2023-08-13T16:55:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC_002_verifyLoginFunctionalitywithValidUsernameandInvalidPassword()[pri:2, instance:com.test.testcase.LoginTest@27a5f880]" name="TC_002_verifyLoginFunctionalitywithValidUsernameandInvalidPassword" duration-ms="21264" started-at="2023-08-13T16:55:42 IST" description="Verify Login functionality with valid username and invalid password" finished-at="2023-08-13T16:56:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002_verifyLoginFunctionalitywithValidUsernameandInvalidPassword -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.test.testcase.LoginTest@27a5f880]" name="teardown" is-config="true" duration-ms="937" started-at="2023-08-13T16:56:04 IST" finished-at="2023-08-13T16:56:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.testcase.LoginTest@27a5f880]" name="setup" is-config="true" duration-ms="6229" started-at="2023-08-13T16:56:05 IST" finished-at="2023-08-13T16:56:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC_003_verifyLoginFunctionalitywithInvalidUsernameandValidPassword()[pri:3, instance:com.test.testcase.LoginTest@27a5f880]" name="TC_003_verifyLoginFunctionalitywithInvalidUsernameandValidPassword" duration-ms="20978" started-at="2023-08-13T16:56:11 IST" description="Verify Login functionality with invalid username and valid password" finished-at="2023-08-13T16:56:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_003_verifyLoginFunctionalitywithInvalidUsernameandValidPassword -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.test.testcase.LoginTest@27a5f880]" name="teardown" is-config="true" duration-ms="900" started-at="2023-08-13T16:56:32 IST" finished-at="2023-08-13T16:56:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.testcase.LoginTest@27a5f880]" name="setup" is-config="true" duration-ms="8229" started-at="2023-08-13T16:56:33 IST" finished-at="2023-08-13T16:56:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC_004_verifyLoginFunctionalitywithInvalidUsernameandInvalidPassword()[pri:4, instance:com.test.testcase.LoginTest@27a5f880]" name="TC_004_verifyLoginFunctionalitywithInvalidUsernameandInvalidPassword" duration-ms="21015" started-at="2023-08-13T16:56:41 IST" description="Verify Login functionality with invalid username and invalid password" finished-at="2023-08-13T16:57:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_004_verifyLoginFunctionalitywithInvalidUsernameandInvalidPassword -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.test.testcase.LoginTest@27a5f880]" name="teardown" is-config="true" duration-ms="914" started-at="2023-08-13T16:57:02 IST" finished-at="2023-08-13T16:57:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.test.testcase.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
